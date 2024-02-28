@@ -1,0 +1,12 @@
+
+[brick]
+chplVersion = "1.33.0"
+license = "None"
+name = "MyCoolLibrary"
+type = "library"
+version = "0.1.0"
+
+[dependencies]
+HelloWorld = "0.1.0"
+
+
