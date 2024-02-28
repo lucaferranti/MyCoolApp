@@ -2,6 +2,6 @@
 
 module MyCoolLibrary {
   proc greeting(name: string): string {
-    return "Hello " + name;
+    return "Goodbye " + name;
   }
 }
